@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=F7841D&width=435&lines=Welcome+to+my+humble+abode!" alt="Typing SVG" /></a>
 <p>I'm interested in Human-Computer Interaction, Computer Graphics, and Digital Libraries.</p>
 <p>In my free time, I enjoy game development, art, and music production.</p>
+
+<img width="640" height="320" alt="mongo" src="https://github.com/user-attachments/assets/fbd5e12b-cc72-4917-9a69-3c71b2460639" />
