@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <p><b>B.S. Computer Science, Minor in Digital Studies @ University of Mary Washington (2026)</b></p>
 
-> <p><b>Relevant Coursework:</b> Software Engineering, Human-Computer Interaction, Operating Systems, SQL/NoSQL Databases, Algorithms, Architecture, Quantum Computing, Audio Production, Animation, Web Design</p>
+> <p><b>Relevant Coursework:</b> Software Engineering, Human-Computer Interaction, Operating Systems, SQL/NoSQL Databases, Algorithms, Computer Architecture, Quantum Computing, Audio Production, Animation, Web Design</p>
 
 <img width="100" height="99" alt="Eagle-logo1-582274077" src="https://github.com/user-attachments/assets/086a58aa-9d61-4c7f-8148-3b837985aa10" />
 
