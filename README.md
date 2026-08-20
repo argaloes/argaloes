@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ## Education
 <p><b>M.S. Computer Science @ College of William and Mary (2028 -- Tentative)</b></p>
 
-> <p><b>Relevant Coursework:</b> Human-Robotics Interaction, Ubiquitous Computing, Computer Animation</p>
+> <p><b>Relevant Coursework:</b> Human-Robotics Interaction, Ubiquitous/Mobile Computing, Computer Animation</p>
 
 <img width="100" height="100" alt="Griffin-Logo-Transparent-Images-119270163" src="https://github.com/user-attachments/assets/efb5cc50-c9aa-4f23-865d-968457ae4b5b" />
 
