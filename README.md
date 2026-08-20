@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello,
 
 <!--
 **argaloes/argaloes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=F7841D&width=435&lines=Welcome+to+my+humble+abode!" alt="Typing SVG" /></a>
-> <p>I'm interested in Human-Computer Interaction, Computer Graphics, CS Pedagogy, and Digital Humanities.</p>
+> <p>I'm interested in Human-Computer Interaction, Computer Graphics, CS Education Pedagogy, and Digital Humanities.</p>
 > <p>In my free time, I enjoy game development, art, and music production.</p>
 
 <img width="640" height="320" alt="mongo" src="https://github.com/user-attachments/assets/fbd5e12b-cc72-4917-9a69-3c71b2460639" />
