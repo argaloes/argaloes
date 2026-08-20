@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=F7841D&width=435&lines=Welcome+to+my+humble+abode!" alt="Typing SVG" /></a>
+<p>I'm interested in Human-Computer Interaction, Computer Graphics, and Digital Libraries.</p>
+<p>In my free time, I enjoy game development, art, and music production.</p>
