@@ -44,5 +44,3 @@ Here are some ideas to get you started:
 <img width="88" height="31" alt="sanct-bookmark" src="https://github.com/user-attachments/assets/0b0fc736-7884-46c5-8610-5c787d967816" />
 <img width="88" height="31" alt="kayleigh-bookmark" src="https://github.com/user-attachments/assets/b34a5a63-0151-477e-8ff4-fc4c535b534c" />
 <img width="88" height="31" alt="dorumon-bookmark" src="https://github.com/user-attachments/assets/46bff601-bd3d-49a7-8056-f376b8a1b165" />
-<img width="88" height="31" alt="hagurumon-bookmark" src="https://github.com/user-attachments/assets/d556ee16-8261-4712-89d0-8199fa60120c" />
-<img width="88" height="31" alt="fe8-bookmark" src="https://github.com/user-attachments/assets/b4e7d08d-5351-4fbb-b372-295a0bea7be1" />
